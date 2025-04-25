@@ -12,53 +12,33 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+ Import Libraries and Load the Dataset
 
 ### STEP 2: 
 
-
+Load Pretrained VGG19 Model
 
 ### STEP 3: 
 
-
+Modify Classifier
 
 ### STEP 4: 
 
-
+Define Loss Function and Optimizer
 
 ### STEP 5: 
 
-
+Train the Model
 
 ### STEP 6: 
 
-
-
-
+ Evaluate the Model
 
 ## PROGRAM
 
-### Name:
+### Name: GIRITHICK ROHAN
 
-### Register Number:
-
-```python
-# Load Pretrained Model and Modify for Transfer Learning
-
-
-
-# Modify the final fully connected layer to match the dataset classes
-
-
-
-# Include the Loss function and optimizer
-
-
-
-# Train the model
-
-
-```
+### Register Number: 212223230063
 
 ### OUTPUT
 
@@ -77,4 +57,4 @@ Include classification report here
 Include your sample input and output here
 
 ## RESULT
-Include your result here
+Thus,the program excuted sucessfuly.
