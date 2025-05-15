@@ -36,9 +36,9 @@ Train the Model
 
 ## PROGRAM
 
-### Name: GIRITHICK ROHAN
+### Name: LOGESH.N.A
 
-### Register Number: 212223230063
+### Register Number: 212223240078
 
 ### OUTPUT
 
